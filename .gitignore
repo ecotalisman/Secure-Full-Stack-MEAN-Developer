@@ -1,6 +1,7 @@
 # Node modules
 node_modules
 **/node_modules/
+backend/node_modules/iconv-lite/README.md
 npm-debug.log
 yarn-error.log
 
